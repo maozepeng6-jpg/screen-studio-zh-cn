@@ -1,0 +1,20 @@
+{
+  "package_version": "1.1.1",
+  "app_version": "4.1.0-5005",
+  "bundle_id": "com.timpler.screenstudio",
+  "developer_team": "SXF593CX2N",
+  "architecture": "arm64",
+  "original_asar_sha256": "3664b31486eb44652152f4ab408180b5a13f999dce9f104b90ad84dd44d15359",
+  "payload_sha256": {
+    "localize-main.cjs": "3c7956215bb5e1c61f724d3ee9730c9a3d4acb16bc79e48fffaa0624fe4610ec",
+    "localize-renderer.js": "a868ee667e32bf08b1e3c8b845c1346fdecb732842c2e8615da4a0ad0ac8079e",
+    "zh-CN.json": "ac239091ea95daccb20ccb5ab1357709c1e3bbd2b9127c54aae797b77c36397b",
+    "localize-native-menu.js": "6f2e8ea33a466eaf88865d2617c837a33f25a695250fb47f74208e7215e46171"
+  },
+  "translation_entries": 2068,
+  "release_status": "compatibility-pilot-not-officially-endorsed",
+  "official_endorsement": false,
+  "commercial_permission": "not_obtained",
+  "build_date": "2026-11-14",
+  "description": "Local UI translation only; requires the recipient's own matching official Screen Studio installation. No license activation or bypass."
+}
