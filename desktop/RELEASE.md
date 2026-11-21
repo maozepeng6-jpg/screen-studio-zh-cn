@@ -1,12 +1,12 @@
 # Screen Studio 中文双击安装器 1.0.0
 
-**[点击下载双击安装包（约 4.1 MB）](https://github.com/maozepeng6-jpg/screen-studio-zh-cn/releases/download/desktop-v1.0.0/ScreenStudio-%E4%B8%AD%E6%96%87%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%8C%85.zip)**
+**[点击下载双击安装包（约 4.1 MB）](https://github.com/maozepeng6-jpg/screen-studio-zh-cn/releases/download/desktop-v1.0.0/ScreenStudio-Chinese-Installer-1.0.0.zip)**
 
 已有 Screen Studio 的用户现在可以双击安装中文补丁，无需 AI、终端或另装 Python。内置的翻译核心仍为 1.1.1，本次增加原生中文安装向导。
 
 ## 怎么用
 
-1. 下载下方 Assets 中的 **ScreenStudio-中文一键安装包.zip** 并解压。不要选 Source code。
+1. 下载下方 Assets 中的 **ScreenStudio-Chinese-Installer-1.0.0.zip** 并解压。不要选 Source code。
 2. 双击 **Screen Studio 中文安装器.app**；保存工作并退出 Screen Studio，点击 **检查并安装**。
 3. 若出现 macOS 管理员验证，输入你自己的电脑密码或使用 Touch ID。
 4. 完成后点 **打开 Screen Studio**。若提示权限，按安装器里的 **权限设置帮助** 重新授权，再录几秒并导出检查。

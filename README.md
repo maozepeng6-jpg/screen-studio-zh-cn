@@ -6,16 +6,16 @@
 
 ## 下载与安装（推荐）
 
-**[⬇ 下载双击安装包 · 约 4.1 MB](https://github.com/maozepeng6-jpg/screen-studio-zh-cn/releases/download/desktop-v1.0.0/ScreenStudio-%E4%B8%AD%E6%96%87%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%8C%85.zip)**　[查看发布页](https://github.com/maozepeng6-jpg/screen-studio-zh-cn/releases/tag/desktop-v1.0.0)
+**[⬇ 下载双击安装包 · 约 4.1 MB](https://github.com/maozepeng6-jpg/screen-studio-zh-cn/releases/download/desktop-v1.0.0/ScreenStudio-Chinese-Installer-1.0.0.zip)**　[查看发布页](https://github.com/maozepeng6-jpg/screen-studio-zh-cn/releases/tag/desktop-v1.0.0)
 
 不需要 AI、终端或另装 Python。安装器自动检查、完整备份、安装并校验。
 
-1. 下载并解压 `ScreenStudio-中文一键安装包.zip`，双击里面的 **Screen Studio 中文安装器.app**。
+1. 下载并解压 `ScreenStudio-Chinese-Installer-1.0.0.zip`，双击里面的 **Screen Studio 中文安装器.app**。
 2. 保存当前录制/剪辑工作并退出 Screen Studio，点击 **检查并安装**。默认自动找到“应用程序”里的软件；找不到时点“选择应用…”自行选择。
 3. 如果 macOS 弹出管理员验证，由你本人输入电脑密码或使用 Touch ID。完成后点 **打开 Screen Studio**。
 4. 若软件要求录屏或辅助功能权限，点安装器里的 **权限设置帮助**，按系统提示授权。最后录几秒并导出，确认能正常使用。
 
-下载页里的 **Source code (zip)** 是源码，普通用户请选择 **ScreenStudio-中文一键安装包.zip**。压缩包也附有 `先看这里.txt`。
+下载页里的 **Source code (zip)** 是源码，普通用户请选择 **ScreenStudio-Chinese-Installer-1.0.0.zip**。压缩包也附有 `先看这里.txt`。
 
 <img src="desktop/assets/installer-preview.png" alt="中文安装器：选择应用后，点击检查并安装；需要撤销时点击恢复原版。" width="748">
 

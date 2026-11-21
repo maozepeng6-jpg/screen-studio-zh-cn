@@ -24,7 +24,7 @@
 
 ## 交付
 
-文件：`ScreenStudio-中文一键安装包.zip`，4,112,751 字节。
+本地文件：`ScreenStudio-中文一键安装包.zip`；GitHub 下载文件名：`ScreenStudio-Chinese-Installer-1.0.0.zip`。两者内容相同，均为 4,112,751 字节。
 
 SHA-256：`acbba6abbc2a428f2e6293b21ec1c040ec9ddf81acfbc7f6696ab02a87056380`。
 
