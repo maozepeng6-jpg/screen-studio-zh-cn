@@ -14,3 +14,6 @@ backups/
 source/
 .env
 .env.*
+.build-venv/
+build-desktop/
+*.spec
